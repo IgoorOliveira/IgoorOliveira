@@ -1,6 +1,6 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=6600FF&height=120&section=header"/>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=6600FF&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+My+name+is+Igor+Oliveira;I+Graduated+Systems+Analysis+and+Development;I'm+20+years+old;)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=6600FF&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+My+name+is+Igor+Oliveira;I'm+graduating+in+Systems+Analysis+and+Development;I'm+20+years+old;)](https://git.io/typing-svg)
 
 <!--
 **IgoorOliveira/IgoorOliveira** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
